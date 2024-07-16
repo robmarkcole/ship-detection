@@ -1,0 +1,12 @@
+rasterio
+matplotlib
+numpy
+geopandas
+pandas
+fiona
+shapely
+seaborn
+fiona
+pycocotools
+ultralytics
+git+git://github.com/mayrajeo/geo2ml.git
